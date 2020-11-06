@@ -1,3 +1,13 @@
+/**
+* @file util.h
+* @brief  function declarations
+*
+* @author Hunter Spack
+* @assignment Lecture 10.1
+* @date 11/5/2020
+* @credits 
+* 
+*/
 #ifndef UTIL_H
 #define UTIL_H
 
